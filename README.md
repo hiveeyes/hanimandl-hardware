@@ -2,16 +2,15 @@
 
 Ein halbautomatischer Honig-Abfüll-Roboter.
 
+- [Firmware und Dokumentation]
 
-## Ressourcen
+- [Hardware-Modell und Design-Dateien]
 
-- Repository für Firmware und Dokumentation: https://github.com/hiveeyes/hani-mandl
+- [Diskussionsforum bei Hiveeyes]:
+  Viele weitere Informationen, Anleitungen und Handreichungen zum Nachbau des HaniMandl.
 
-- [3D-Druck-Dateien] für verschiedene Ausführungsvarianten.
-
-- Diskussionsforum: [HaniMandl, halbautomatischer Honig-Abfüllbehälter]
-
-- Weitere Diskussionen über Code, Infos zur Hardware, Fotos und Videos in der [Facebook-Gruppe »Imkerei und Technik. Eigenbau«].
+- [Facebook-Gruppe »Imkerei und Technik. Eigenbau«]:
+  Weitere Diskussionen über Code, Infos zur Hardware, Fotos, und Videos.
 
 
 ## Lizenzen
@@ -21,6 +20,7 @@ verfügbar. Für frühere Versionen und einige aktuelle Derivate finden
 abweichende Lizenzen Anwendung.
 
 
-[3D-Druck-Dateien]: ./variants
+[Diskussionsforum bei Hiveeyes]: https://community.hiveeyes.org/t/hanimandl-halbautomatischer-honig-abfull-roboter/768
+[Firmware und Dokumentation]: https://github.com/hiveeyes/hanimandl
 [Facebook-Gruppe »Imkerei und Technik. Eigenbau«]: https://www.facebook.com/groups/139671009967454
-[HaniMandl, halbautomatischer Honig-Abfüllbehälter]: https://community.hiveeyes.org/t/side-project-hanimandl-halbautomatischer-honig-abfullbehalter/768
+[Hardware-Modell und Design-Dateien]: https://github.com/hiveeyes/hanimandl-hardware
